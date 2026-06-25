@@ -1,0 +1,25 @@
+{
+  "universe_usage_history": [
+    {
+      "universe": "phish-and-friends",
+      "project": "AvenueSouthAdvisory",
+      "used_at": "2026-06-25T00:00:00Z",
+      "assigned_names": ["Jerry", "Trey", "Page", "Fish", "Mike"]
+    }
+  ],
+  "assignment_cast_snapshots": {
+    "AvenueSouthAdvisory-2026-06-25": {
+      "assignment_id": "avenue-south-advisory-initial",
+      "universe": "phish-and-friends",
+      "created_at": "2026-06-25T00:00:00Z",
+      "requested_by": "peterhdglenn",
+      "cast": {
+        "Jerry": "Lead",
+        "Trey": "Frontend Dev",
+        "Page": "Content & Domain Expert",
+        "Fish": "Designer",
+        "Mike": "QA / Tester"
+      }
+    }
+  }
+}

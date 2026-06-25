@@ -1,0 +1,73 @@
+{
+  "agents": {
+    "jerry": {
+      "persistent_name": "Jerry",
+      "universe": "phish-and-friends",
+      "role": "Lead",
+      "created_at": "2026-06-25T00:00:00Z",
+      "legacy_named": false,
+      "status": "active",
+      "note": "Named after Jerry Garcia (Grateful Dead) per owner request; rest of team from Phish"
+    },
+    "trey": {
+      "persistent_name": "Trey",
+      "universe": "phish-and-friends",
+      "role": "Frontend Dev",
+      "created_at": "2026-06-25T00:00:00Z",
+      "legacy_named": false,
+      "status": "active",
+      "note": "Trey Anastasio — lead guitarist/vocalist of Phish"
+    },
+    "page": {
+      "persistent_name": "Page",
+      "universe": "phish-and-friends",
+      "role": "Content & Domain Expert",
+      "created_at": "2026-06-25T00:00:00Z",
+      "legacy_named": false,
+      "status": "active",
+      "note": "Page McConnell — keyboardist of Phish"
+    },
+    "fish": {
+      "persistent_name": "Fish",
+      "universe": "phish-and-friends",
+      "role": "Designer",
+      "created_at": "2026-06-25T00:00:00Z",
+      "legacy_named": false,
+      "status": "active",
+      "note": "Jon Fishman — drummer of Phish"
+    },
+    "mike": {
+      "persistent_name": "Mike",
+      "universe": "phish-and-friends",
+      "role": "QA / Tester",
+      "created_at": "2026-06-25T00:00:00Z",
+      "legacy_named": false,
+      "status": "active",
+      "note": "Mike Gordon — bassist of Phish"
+    },
+    "scribe": {
+      "persistent_name": "Scribe",
+      "universe": "exempt",
+      "role": "Session Logger",
+      "created_at": "2026-06-25T00:00:00Z",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "ralph": {
+      "persistent_name": "Ralph",
+      "universe": "exempt",
+      "role": "Work Monitor",
+      "created_at": "2026-06-25T00:00:00Z",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "rai": {
+      "persistent_name": "Rai",
+      "universe": "exempt",
+      "role": "RAI Reviewer",
+      "created_at": "2026-06-25T00:00:00Z",
+      "legacy_named": false,
+      "status": "active"
+    }
+  }
+}
