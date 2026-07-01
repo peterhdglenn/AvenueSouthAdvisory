@@ -1,0 +1,28 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(100, 100)">
+    <polygon points="0,-58 50,-29 50,29 0,58 -50,29 -50,-29"
+             fill="none" stroke="#1a2b4a" stroke-width="1.5" opacity="0.25"/>
+    <line x1="0" y1="0" x2="0"   y2="-34" stroke="#1a3a6a" stroke-width="1" opacity="0.5"/>
+    <line x1="0" y1="0" x2="30"  y2="-17" stroke="#1a3a6a" stroke-width="1" opacity="0.5"/>
+    <line x1="0" y1="0" x2="30"  y2="17"  stroke="#1a3a6a" stroke-width="1" opacity="0.5"/>
+    <line x1="0" y1="0" x2="0"   y2="34"  stroke="#1a3a6a" stroke-width="1" opacity="0.5"/>
+    <line x1="0" y1="0" x2="-30" y2="17"  stroke="#1a3a6a" stroke-width="1" opacity="0.5"/>
+    <line x1="0" y1="0" x2="-30" y2="-17" stroke="#1a3a6a" stroke-width="1" opacity="0.5"/>
+    <line x1="0"   y1="-34" x2="30"  y2="-17" stroke="#1a3a6a" stroke-width="0.75" opacity="0.3"/>
+    <line x1="30"  y1="-17" x2="30"  y2="17"  stroke="#1a3a6a" stroke-width="0.75" opacity="0.3"/>
+    <line x1="30"  y1="17"  x2="0"   y2="34"  stroke="#1a3a6a" stroke-width="0.75" opacity="0.3"/>
+    <line x1="0"   y1="34"  x2="-30" y2="17"  stroke="#1a3a6a" stroke-width="0.75" opacity="0.3"/>
+    <line x1="-30" y1="17"  x2="-30" y2="-17" stroke="#1a3a6a" stroke-width="0.75" opacity="0.3"/>
+    <line x1="-30" y1="-17" x2="0"   y2="-34" stroke="#1a3a6a" stroke-width="0.75" opacity="0.3"/>
+    <circle cx="0"   cy="-34" r="5" fill="#1a3a6a"/>
+    <circle cx="30"  cy="-17" r="5" fill="#1a3a6a"/>
+    <circle cx="30"  cy="17"  r="5" fill="#1a3a6a"/>
+    <circle cx="0"   cy="34"  r="5" fill="#1a3a6a"/>
+    <circle cx="-30" cy="17"  r="5" fill="#1a3a6a"/>
+    <circle cx="-30" cy="-17" r="5" fill="#1a3a6a"/>
+    <circle cx="0" cy="0" r="9" fill="#c8922a"/>
+    <circle cx="0" cy="0" r="5" fill="#e8b84a"/>
+    <line x1="14" y1="-14" x2="26" y2="-26" stroke="#c8922a" stroke-width="1.5" opacity="0.7"/>
+    <polygon points="26,-26 18,-24 24,-18" fill="#c8922a" opacity="0.7"/>
+  </g>
+</svg>

@@ -25,7 +25,7 @@ if (form && status) {
       message
     ].filter(Boolean).join('\n'));
 
-    const mailto = `mailto:aviscichini@gmail.com?subject=${subject}&body=${body}`;
+    const mailto = `mailto:anthony@avenuesouthadvisory.com?subject=${subject}&body=${body}`;
     window.location.href = mailto;
     status.hidden = false;
     status.textContent = 'Your email app should open with the message prefilled.';

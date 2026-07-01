@@ -1,0 +1,25 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(16, 16)">
+    <!-- Simplified for 32px: thicker strokes, larger nodes, no faint hex ring -->
+    <line x1="0" y1="0" x2="0"   y2="-9"  stroke="#1a3a6a" stroke-width="1" opacity="0.6"/>
+    <line x1="0" y1="0" x2="8"   y2="-4.5" stroke="#1a3a6a" stroke-width="1" opacity="0.6"/>
+    <line x1="0" y1="0" x2="8"   y2="4.5"  stroke="#1a3a6a" stroke-width="1" opacity="0.6"/>
+    <line x1="0" y1="0" x2="0"   y2="9"   stroke="#1a3a6a" stroke-width="1" opacity="0.6"/>
+    <line x1="0" y1="0" x2="-8"  y2="4.5"  stroke="#1a3a6a" stroke-width="1" opacity="0.6"/>
+    <line x1="0" y1="0" x2="-8"  y2="-4.5" stroke="#1a3a6a" stroke-width="1" opacity="0.6"/>
+    <line x1="0"  y1="-9"  x2="8"  y2="-4.5" stroke="#1a3a6a" stroke-width="0.75" opacity="0.4"/>
+    <line x1="8"  y1="-4.5" x2="8" y2="4.5"  stroke="#1a3a6a" stroke-width="0.75" opacity="0.4"/>
+    <line x1="8"  y1="4.5"  x2="0" y2="9"    stroke="#1a3a6a" stroke-width="0.75" opacity="0.4"/>
+    <line x1="0"  y1="9"   x2="-8" y2="4.5"  stroke="#1a3a6a" stroke-width="0.75" opacity="0.4"/>
+    <line x1="-8" y1="4.5" x2="-8" y2="-4.5" stroke="#1a3a6a" stroke-width="0.75" opacity="0.4"/>
+    <line x1="-8" y1="-4.5" x2="0" y2="-9"   stroke="#1a3a6a" stroke-width="0.75" opacity="0.4"/>
+    <circle cx="0"  cy="-9"  r="1.8" fill="#1a3a6a"/>
+    <circle cx="8"  cy="-4.5" r="1.8" fill="#1a3a6a"/>
+    <circle cx="8"  cy="4.5"  r="1.8" fill="#1a3a6a"/>
+    <circle cx="0"  cy="9"   r="1.8" fill="#1a3a6a"/>
+    <circle cx="-8" cy="4.5"  r="1.8" fill="#1a3a6a"/>
+    <circle cx="-8" cy="-4.5" r="1.8" fill="#1a3a6a"/>
+    <circle cx="0" cy="0" r="3.5" fill="#c8922a"/>
+    <circle cx="0" cy="0" r="2"   fill="#e8b84a"/>
+  </g>
+</svg>

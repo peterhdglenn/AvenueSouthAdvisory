@@ -1,0 +1,19 @@
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(8, 8)">
+    <!-- At 16px: ultra-simplified — just nodes, spokes, and bold center hub -->
+    <line x1="0" y1="0" x2="0"   y2="-5"   stroke="#1a3a6a" stroke-width="0.75" opacity="0.7"/>
+    <line x1="0" y1="0" x2="4.3" y2="-2.5" stroke="#1a3a6a" stroke-width="0.75" opacity="0.7"/>
+    <line x1="0" y1="0" x2="4.3" y2="2.5"  stroke="#1a3a6a" stroke-width="0.75" opacity="0.7"/>
+    <line x1="0" y1="0" x2="0"   y2="5"    stroke="#1a3a6a" stroke-width="0.75" opacity="0.7"/>
+    <line x1="0" y1="0" x2="-4.3" y2="2.5" stroke="#1a3a6a" stroke-width="0.75" opacity="0.7"/>
+    <line x1="0" y1="0" x2="-4.3" y2="-2.5" stroke="#1a3a6a" stroke-width="0.75" opacity="0.7"/>
+    <circle cx="0"    cy="-5"  r="1.2" fill="#1a3a6a"/>
+    <circle cx="4.3"  cy="-2.5" r="1.2" fill="#1a3a6a"/>
+    <circle cx="4.3"  cy="2.5"  r="1.2" fill="#1a3a6a"/>
+    <circle cx="0"    cy="5"   r="1.2" fill="#1a3a6a"/>
+    <circle cx="-4.3" cy="2.5"  r="1.2" fill="#1a3a6a"/>
+    <circle cx="-4.3" cy="-2.5" r="1.2" fill="#1a3a6a"/>
+    <circle cx="0" cy="0" r="2.2" fill="#c8922a"/>
+    <circle cx="0" cy="0" r="1.2" fill="#e8b84a"/>
+  </g>
+</svg>
