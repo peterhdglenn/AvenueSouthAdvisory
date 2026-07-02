@@ -704,6 +704,19 @@ textarea:focus {
     width: min(100vw - 1.2rem, 100% - 1.2rem);
   }
 
+  #services .section-heading.section-heading-wide {
+    flex-direction: column-reverse;
+    align-items: stretch !important;
+    gap: 1rem !important;
+  }
+
+  #services .section-heading.section-heading-wide > img {
+    margin-top: 0 !important;
+    width: 100%;
+    max-width: none !important;
+    height: auto;
+  }
+
   .header-shell {
     flex-direction: column;
     align-items: flex-start;
