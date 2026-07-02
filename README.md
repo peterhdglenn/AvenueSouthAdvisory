@@ -15,8 +15,8 @@ Then open `http://localhost:8000` in your browser.
 ## Deploy to GitHub Pages
 
 1. Push this repository to GitHub.
-2. The site deploys automatically on push through the GitHub Actions workflow in [.github/workflows/pages.yml](.github/workflows/pages.yml).
-3. GitHub Pages serves the root of the repository, and the workflow publishes the static site without changing the app runtime.
+2. The site deploys automatically on push to `main` via GitHub's built-in Pages deployment workflow (GitHub Actions).
+3. GitHub Pages serves the root of the repository and publishes the static site without changing the app runtime.
 
 The repo includes a root-level `.nojekyll` file so GitHub Pages serves the static files directly without Jekyll processing.
 
